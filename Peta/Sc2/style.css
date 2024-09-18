@@ -1,0 +1,21 @@
+body{
+    background-image: url("Peta2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+div{
+    position: absolute;
+    text-align:center;
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%,-50%);
+
+    background-color: grey;
+    border-radius: 10px;
+    opacity: 80%;
+    padding: 10px;
+}
